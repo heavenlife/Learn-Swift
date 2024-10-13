@@ -1,0 +1,179 @@
+{
+  "LearnSwift": [
+    {
+      "id": 1,
+      "title": "What is Swift Programming Language?",
+      "web_site": "https://sites.google.com/view/alians-swift-1/home"
+    },
+    {
+      "id": 2,
+      "title": "Installing Swift on macOS",
+      "web_site": "https://sites.google.com/view/alians-swift-2/home"
+    },
+    {
+      "id": 3,
+      "title": "Installing Swift on Windows",
+      "web_site": "https://sites.google.com/view/alians-swift-3/home"
+    },
+    {
+      "id": 4,
+      "title": "Data Types in Swift",
+      "web_site": "https://sites.google.com/view/alians-swift-4/home"
+    },
+    {
+      "id": 5,
+      "title": "Type of Operators in Swift",
+      "web_site": "https://sites.google.com/view/alians-swift-5/home"
+    },
+    {
+      "id": 6,
+      "title": "Swift Variables, Constants and Literals",
+      "web_site": "https://sites.google.com/view/alians-swift-6/home"
+    },
+    {
+      "id": 7,
+      "title": "Swift Basic Input and Output",
+      "web_site": "https://sites.google.com/view/alians-swift-7/home"
+    },
+    {
+      "id": 8,
+      "title": "Swift Expressions, Statements and Code blocks",
+      "web_site": "https://sites.google.com/view/alians-swift-8/home"
+    },
+    {
+      "id": 9,
+      "title": "Swift Comments",
+      "web_site": "https://sites.google.com/view/alians-swift-9/home"
+    },
+    {
+      "id": 10,
+      "title": "Swift if, if...else Statement",
+      "web_site": "https://sites.google.com/view/alians-swift-10/home"
+    },
+    {
+      "id": 11,
+      "title": "Swift switch Statement",
+      "web_site": "https://sites.google.com/view/alians-swift-11/home"
+    },
+    {
+      "id": 12,
+      "title": "Swift while and repeat while Loop",
+      "web_site": "https://sites.google.com/view/alians-swift-12/home"
+    },
+    {
+      "id": 13,
+      "title": "Swift for-in Loop",
+      "web_site": "https://sites.google.com/view/alians-swift-13/home"
+    },
+    {
+      "id": 14,
+      "title": "Nested Loops in Swift",
+      "web_site": "https://sites.google.com/view/alians-swift-14/home"
+    },
+    {
+      "id": 15,
+      "title": "Swift break Statement",
+      "web_site": "https://sites.google.com/view/alians-swift-15/home"
+    },
+    {
+      "id": 16,
+      "title": "Swift continue Statement,
+      "web_site": "https://sites.google.com/view/alians-swift-16/home"
+    },
+    {
+      "id": 17,
+      "title": "Swift Arrays",
+      "web_site": "https://sites.google.com/view/alians-swift-17/home"
+    },
+    {
+      "id": 18,
+      "title": "Swift Sets",
+      "web_site": "https://sites.google.com/view/alians-python-18/home"
+    },
+    {
+      "id": 19,
+      "title": "Swift Dictionary",
+      "web_site": "https://sites.google.com/view/alians-swift-19/home"
+    },
+    {
+      "id": 20,
+      "title": "Swift Tuple",
+      "web_site": "https://sites.google.com/view/alians-swift-20/home"
+    },
+    {
+      "id": 21,
+      "title": "Swift Functions",
+      "web_site": "https://sites.google.com/view/alians-swift-21/home"
+    },
+    {
+      "id": 22,
+      "title": "Swift Function Parameters and Return Values",
+      "web_site": "https://sites.google.com/view/alians-swift-22/home"
+    },
+    {
+      "id": 23,
+      "title": "Swift Nested Functions",
+      "web_site": "https://sites.google.com/view/alians-swift-23/home"
+    },
+    {
+      "id": 24,
+      "title": "Swift Recursion",
+      "web_site": "https://sites.google.com/view/alians-swift-24/home"
+    },
+    {
+      "id": 25,
+      "title": "Swift Ranges",
+      "web_site": "https://sites.google.com/view/alians-swift-25/home"
+    },
+    {
+      "id": 26,
+      "title": "Swift Function Overloading",
+      "web_site": "https://sites.google.com/view/alians-swift-26/home"
+    },
+    {
+      "id": 27,
+      "title": "Swift Closures",
+      "web_site": "https://sites.google.com/view/alians-swift-27/home"
+    },
+     {
+      "id": 28,
+      "title": "Swift Classes and Objects",
+      "web_site": "https://sites.google.com/view/alians-swift-28/home"
+    },
+    {
+      "id": 29,
+      "title": "Swift - Properties",
+      "web_site": "https://sites.google.com/view/alians-swift-29/home"
+    },
+    {
+      "id": 30,
+      "title": "Methods in Swift",
+      "web_site": "https://sites.google.com/view/alians-swift-30/home"
+    },
+    {
+      "id": 31,
+      "title": "Swift Inheritance",
+      "web_site": "https://sites.google.com/view/alians-swift-31/home"
+    },
+    {
+      "id": 32,
+      "title": "Swift Overriding Methods",
+      "web_site": "https://sites.google.com/view/alians-swift-32/home"
+    },
+    {
+      "id": 33,
+      "title": "Swift enum",
+      "web_site": "https://sites.google.com/view/alians-swift-33/home"
+    },
+    {
+      "id": 34,
+      "title": "Swift enum With Associated Values",
+      "web_site": "https://sites.google.com/view/alians-swift-34/home"
+    },
+    {
+      "id": 35,
+      "title": "Swift Structs",
+      "web_site": "https://sites.google.com/view/alians-swift-35/home"
+    }
+  ]
+}
